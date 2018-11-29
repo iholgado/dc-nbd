@@ -1,5 +1,5 @@
 # dc-nbd
-Server side support for DC.js with NativeBigData server
+Server side support for dc.js with NativeBigData server
 
 dc.js (https://dc-js.github.io/dc.js/) is a javascript charting library with native crossfilter support, allowing highly efficient exploration on large multi-dimensional datasets (inspired by crossfilter's demo). It leverages d3 to render charts in CSS-friendly SVG format. Charts rendered using dc.js are data driven and reactive and therefore provide instant feedback to user interaction. 
 
